@@ -23,7 +23,7 @@ Each release contains a .zip archive of the current version, ready to be hosted 
 
 Here's the HTML for the Kepler loader.
 
-```html
+```php
 <?php
 $ssoParam = '';
 if (isset($_GET['sso'])) {
