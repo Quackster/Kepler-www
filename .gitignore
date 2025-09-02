@@ -1,0 +1,15 @@
+dcr/
+r38/
+r34/
+c_images/*
+!/c_images/album2705/
+!/c_images/album2705/payment_habbo_prepaid.png
+!/c_images/album2705/logo_sms.png
+!/c_images/Frontpage_images/
+
+!c_images/officialrooms_defaults/
+!c_images/article_images_hq/
+
+!web-gallery/v2/images/landing/
+
+!public/
